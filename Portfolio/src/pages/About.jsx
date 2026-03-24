@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section className="relative z-10 pt-28 px-6 max-w-4xl mx-auto">
+    <section className="relative z-10 pt-28 pb-4 px-6 max-w-4xl mx-auto">
       <h2 className="text-3xl font-bold mb-6">About Me</h2>
 
       {/* Intro */}
@@ -42,7 +42,7 @@ export default function About() {
       </div>
 
       {/* Qualifications */}
-      <div className="bg-gray-900 p-6 rounded-lg">
+      <div className="bg-gray-900 p-6 mb-4 rounded-lg">
         <h3 className="text-xl font-semibold mb-4">Qualifications</h3>
 
         <div className="space-y-5">

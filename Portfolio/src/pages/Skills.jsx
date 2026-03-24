@@ -18,12 +18,12 @@ export default function Skills() {
 
         <div className="bg-gray-900 p-5 rounded-lg">
           <h3 className="text-xl mb-2">Backend</h3>
-          <p className="text-gray-400">Node.js, Django, FastAPI</p>
+          <p className="text-gray-400">Django, FastAPI</p>
         </div>
 
         <div className="bg-gray-900 p-5 rounded-lg">
           <h3 className="text-xl mb-2">Database</h3>
-          <p className="text-gray-400">MySQL</p>
+          <p className="text-gray-400">MySQL, PostgreSQL</p>
         </div>
 
         <div className="bg-gray-900 p-5 rounded-lg">
