@@ -50,7 +50,7 @@ export default function Contact() {
         <div className="flex flex-col sm:flex-row gap-4">
           {/* View CV */}
           <a
-            href="/Abin SD.pdf"
+            href="/ABIN fs.pdf"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-3 justify-center bg-gray-800 px-6 py-3 rounded-lg hover:bg-gray-700 transition"
@@ -61,7 +61,7 @@ export default function Contact() {
 
           {/* Download CV */}
           <a
-            href="/Abin SD.pdf"
+            href="/ABIN fs.pdf"
             download
             className="flex items-center gap-3 justify-center bg-blue-600 px-6 py-3 rounded-lg hover:bg-blue-700 transition"
           >
