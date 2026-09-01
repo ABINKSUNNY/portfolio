@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-4 text-gray-400 text-lg">
-         Junior Web Developer | Full Stack Developer | Python Developer | Software Engineer
+         Software Tester | Manual Tester | QA Tester | Junior Web Developer | Full Stack Developer
         </p>
       </motion.div>
 

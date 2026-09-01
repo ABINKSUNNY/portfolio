@@ -5,17 +5,13 @@ export default function About() {
 
       {/* Intro */}
       <p className="text-gray-400 leading-relaxed mb-8">
-      I am a detail-oriented and motivated MCA graduate with strong expertise in full-stack web development. 
-      I specialize in building scalable and responsive web applications using Python, Django, React, and RESTful APIs, 
-      with solid experience in SQL and database management. 
-
-      I have hands-on experience developing dynamic user interfaces, implementing backend business logic, 
-      and optimizing database operations. 
-
-      I am proficient in problem-solving, debugging, writing clean and maintainable code, 
-      and adapting quickly to new technologies. 
-
-  I am committed to continuous learning and delivering reliable, high-quality technical solutions.
+      Detail-oriented MCA graduate with hands-on experience in full-stack web development and a strong foundation in
+      software testing. Proficient in Python, Django, React, RESTful APIs, SQL, and database-driven applications, with
+      knowledge of manual testing, functional testing, regression testing, smoke testing, sanity testing, and exploratory
+      testing. Experienced in analyzing application requirements, identifying issues, validating functionality, and working
+      with web-based systems through academic, internship, and project experience. Demonstrates strong analytical
+      problem-solving, attention to detail, disciplined work ethic, technical communication, and a willingness to learn and
+      adapt in fast-paced QA and software development environments.
 </p>
 
       {/* Personal Info */}
